@@ -3,6 +3,8 @@
 
 int N = 8;
 
+Console.WriteLine("Введите 8 чисел ");
+
 int[] myArray = new int[N];
 
 for (int i=0; i<N; i++)
